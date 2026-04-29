@@ -1,2 +1,3 @@
-![Bartolomeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartolomeoRusso9&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartolomeoRusso9&layout=compact&theme=transparent&commit_year=all)
+![Bartolomeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartolomeoRusso9&show_icons=true&theme=transparent&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BartolomeoRusso9&layout=compact&theme=transparent)
