@@ -1,2 +1,2 @@
-![](https://raw.githubusercontent.com/BartolomeoRusso9/githubStats/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/BartolomeoRusso9/githubStats/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/BartolomeoRusso9/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/BartolomeoRusso9/github-stats-transparent/output/generated/languages.svg)
