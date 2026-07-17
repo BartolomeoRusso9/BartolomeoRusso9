@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/BartolomeoRusso9">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Bartolomeo;Software+Developer;Maintainer+of+SpotiFLAC-Module" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Bartolomeo" alt="Typing SVG" />
   </a>
 
   <br>
