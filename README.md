@@ -30,10 +30,11 @@
 
   <br>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
+  <!-- GRAFICO ROSA INGRANDITO -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td valign="top">
-        <img height="170px" src="https://github-readme-activity-graph.vercel.app/graph?username=BartolomeoRusso9&theme=tokyonight&hide_border=true&area=true" />
+      <td align="center" valign="top">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BartolomeoRusso9&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
       </td>
     </tr>
   </table>
@@ -41,12 +42,10 @@
   <br>
 
   <h3>Arsenal & Tech Stack</h3>
-  <!-- Ho inserito le tecnologie su cui hai lavorato di recente -->
   <img src="https://skillicons.dev/icons?i=python,go,docker,linux,git,bash,nodejs,regex&theme=dark&perline=12" />
 
   <br><br>
 
-  <!-- NOTA: Questa animazione del serpente funzionerà solo se hai impostato la GitHub Action apposita sul tuo repository! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BartolomeoRusso9/BartolomeoRusso9/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/BartolomeoRusso9/BartolomeoRusso9/blob/output/github-contribution-grid-snake.svg">
