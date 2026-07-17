@@ -42,7 +42,7 @@
   <br>
 
   <h3>Arsenal & Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=python,go,docker,linux,git,bash,nodejs,regex,postgres,java&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,bash,nodejs,regex,postgres,java&theme=dark&perline=12" />
 
   <br><br>
 
