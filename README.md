@@ -8,13 +8,16 @@
 
   <p>
     Focusing on <b>Backend Development</b>, <b>Automation</b>, and <b>Containerization</b>.<br>
-    Currently scaling up my main project below 👇
+    Currently scaling up my main projects below 👇
   </p>
 
   <br>
 
   <a href="https://github.com/BartolomeoRusso9/SpotiFLAC-Module-Version">
     <img width="48%" src="https://socialify.git.ci/BartolomeoRusso9/SpotiFLAC-Module-Version/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SpotiFLAC-Module" />
+  </a>
+  <a href="https://github.com/BartolomeoRusso9/qobuz-rest-api">
+    <img width="48%" src="https://socialify.git.ci/BartolomeoRusso9/qobuz-rest-api/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Qobuz-REST-API" />
   </a>
 
   <br><br>
