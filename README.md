@@ -16,6 +16,9 @@
   <a href="https://github.com/BartolomeoRusso9/SpotiFLAC-Module-Version">
     <img width="48%" src="https://socialify.git.ci/BartolomeoRusso9/SpotiFLAC-Module-Version/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SpotiFLAC-Module" />
   </a>
+  <a href="https://github.com/BartolomeoRusso9/AltKeeper">
+    <img width="48%" src="https://socialify.git.ci/BartolomeoRusso9/AltKeeper/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="AltKeeper" />
+  </a>
   <a href="https://github.com/BartolomeoRusso9/FLACintosh">
     <img width="48%" src="https://socialify.git.ci/BartolomeoRusso9/FLACintosh/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="FLACintosh" />
   </a>
